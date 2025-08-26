@@ -38,7 +38,7 @@
                 "WINDOW_SIZE": 1440
             },
             "COMMON_TOKEN_DISBURSAL_RL": {
-                "MAX_LIMIT": 20,
+                "MAX_LIMIT": 40,
                 "WINDOW_SIZE": 60
             }
         },
